@@ -1,0 +1,27 @@
+{
+  "name": "js-micro-library-tutorial",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awhit012/js-micro-library-tutorial.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Alex White <awhit012@gmail.com> (http://www.awhit012.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awhit012/js-micro-library-tutorial/issues"
+  },
+  "homepage": "https://github.com/awhit012/js-micro-library-tutorial#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
